@@ -24,3 +24,18 @@ In an effort to negate the drawback from so many senior members leaving, a mento
 * A large number of staff leaving were senior staff.
 * There are currently 300,024 employee's at PH.
 * Only a fraction of retiring employees are eligible for the mentorship program
+
+
+### Summary
+
+When the count of employee ID's was performed on the unique titles it shows that 90,398 employees were on their way to retirement meaning just as many positions to fill most of them being senior level employees. This is roughly 30% of the companies employee count.
+
+![image](https://user-images.githubusercontent.com/85713568/137260323-3ac426a3-f867-4c3c-9377-bc0f051a6e58.png)
+![image](https://user-images.githubusercontent.com/85713568/137260340-35abc98c-1d3d-4ee4-a177-aad692788280.png)
+
+With the suggested age range for the eligible mentors only 1549 were eligible. This number is no where near the amount leaving. In an effort to broaden the mentorship requirements the age range could be adjusted.
+![image](https://user-images.githubusercontent.com/85713568/137260514-43a12bba-6706-4d72-b56f-d92136005cba.png)
+
+If we consider employees born between 1960 and 1975 our range broadens to 117,000 eligible mentors, considering that not all may take on the position this gives a better opportunity for the company to deal with the "Silver Tsunami".
+
+
