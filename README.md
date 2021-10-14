@@ -11,12 +11,16 @@ Employees approaching retirement were sorted by employee number, name, title, an
 
 ![image](https://user-images.githubusercontent.com/85713568/137259715-0ba43016-b3fe-41ba-a335-89d3f2b197f7.png)
 
-
 The counts of the titles of the oncoming retirees were also displayed.
+
+![image](https://user-images.githubusercontent.com/85713568/137259763-f2261d35-6391-4549-baae-430d658d5c79.png)
+
+In an effort to negate the drawback from so many senior members leaving, a mentorship program for some to perhaps stay part time was considered. A query was written to see how many would be eligible basing it on their employee number, name, age, and title. The format of this was similar to that of the unique titles but had a smaller age group filter.
+
+![image](https://user-images.githubusercontent.com/85713568/137259827-e92306f1-950e-4d32-9edc-ffc213118f83.png)
+
 
 * A significant portion of the current staff is leaving
 * A large number of staff leaving were senior staff.
 * There are currently 300,024 employee's at PH.
 * Only a fraction of retiring employees are eligible for the mentorship program
-
-In an effort to negate the drawback from so many senior members leaving, a mentorship program for some to perhaps stay part time was considered. A query was written to see how many would be eligible basing it on their employee number, name, age, and title. The format of this was similar to that of the unique titles but had a smaller age group filter.
