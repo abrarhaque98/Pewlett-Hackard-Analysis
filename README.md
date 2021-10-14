@@ -7,7 +7,9 @@ The objective of this project was to acquire information and sort data with the 
 
 ### Results 
 
-Employees approaching retirement were sorted by employee number, name, title, and date they started. That data was later sorted into a more unique dataset where it did not factor in promotions. The unique group of oncoming retirees and their titles displayed in the following picture.
+Employees approaching retirement were sorted by employee number, name, title, and date they started. That data was later sorted into a more unique dataset where it did not factor in promotions. The unique group of oncoming retirees and their titles displayed in the format in following picture.
+
+![image](https://user-images.githubusercontent.com/85713568/137259715-0ba43016-b3fe-41ba-a335-89d3f2b197f7.png)
 
 
 The counts of the titles of the oncoming retirees were also displayed.
